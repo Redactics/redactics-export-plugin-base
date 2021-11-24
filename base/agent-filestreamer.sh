@@ -13,7 +13,7 @@ usage()
   printf '\t%s\n' "-h, --help: Prints help"
 }
 
-VERSION=1.4.2
+VERSION=1.0.0
 
 case "$1" in
 
