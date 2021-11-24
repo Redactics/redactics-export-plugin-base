@@ -29,7 +29,7 @@ download-export)
   ;;
 
 version)
-  printf "$VERSION (visit https://app.redactics.com/cli to check on version updates)\n"
+  printf "$VERSION (visit https://app.redactics.com/developers to check on version updates)\n"
   ;;
 
 -h|--help)
